@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Hi, I’m @VictoRGBC<br>- Big Data and IA student</p>
+<p align="left">- Hi, I’m @VictoRGBC<br>- Big Data and IA student<br>- Web Developer</p>
 
 ###
 
