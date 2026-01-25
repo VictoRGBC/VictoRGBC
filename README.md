@@ -46,7 +46,6 @@ Minha experiência combina a prática do mercado de trabalho com projetos de est
 
 ## ⚡ Fun Facts
 
-* 🎲 **RPG:** Mestre de Dungeons & Dragons nas horas vagas (o que treina muito minha lógica e criatividade!).
 * 📺 **Interesses:** Fã de *Dark Souls* e *Hunter x Hunter*.
 * 📊 **Dados:** Tenho interesse acadêmico em Machine Learning e Data Science (Pandas/Python).
 
