@@ -21,7 +21,7 @@ Atualmente trabalho como **Analista de Implantação**, conciliando a vivência 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,mysql,py,git" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,py,git" />
   </a>
 </p>
 
