@@ -1,70 +1,76 @@
-# Olá, eu sou Victor Gabriel Barros! 👋
+# 👋 Victor Gabriel Barros
+### Desenvolvedor Back-End .NET | Analista de Implantação | SQL & Integrações
 
-### 💻 Desenvolvedor Back-End .NET | Analista de Implantação
+Sou **Desenvolvedor Back-End .NET** com experiência prática em **implantação de sistemas**, **integração entre aplicações** e **manipulação de dados em ambientes produtivos**. Atuo diretamente com **bancos de dados relacionais**, suporte técnico avançado e automação de processos.
 
-Sou um profissional de tecnologia apaixonado por resolver problemas através de código. Atualmente, atuo como **Analista de Implantação**, onde lido diariamente com **Banco de Dados (SQL Server/MySQL/Firebird)**, integração de sistemas e suporte técnico avançado.
-
-Paralelamente, sou graduando em **Tecnologia da Informação pela PUC Goiás** e foco meus estudos no desenvolvimento de software utilizando o ecossistema **Microsoft .NET (C#)**.
+Atualmente trabalho como **Analista de Implantação**, conciliando a vivência profissional com a graduação em **Tecnologia da Informação (PUC Goiás)**, sempre com foco em desenvolvimento de software robusto, escalável e bem estruturado.
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
+## 🎯 Resumo Profissional
 
-Minha experiência combina a prática do mercado de trabalho com projetos de estudo focados em arquitetura de software.
+- Experiência prática com **C# e ecossistema .NET**
+- Forte atuação em **SQL Server, MySQL e Firebird**
+- Vivência em **implantação de sistemas**, migração e importação de dados
+- Perfil analítico, organizado e orientado à solução de problemas
+- Em constante evolução técnica e acadêmica
 
-## 🛠️ Tech Stack & Ferramentas
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,mssql,py,git" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,mysql,py,git" />
   </a>
 </p>
 
-<br/>
-
-* **Foco:** Desenvolvimento Back-end, Otimização de consultas SQL e APIs.
-* **Idiomas:** Português (Nativo), Inglês (Profissional).
+**Principais Competências Técnicas:**
+- Desenvolvimento **Back-End com C# / .NET**
+- Criação e consumo de **APIs REST**
+- Escrita e otimização de **consultas SQL**
+- Importação, tratamento e validação de dados
+- Versionamento com **Git**
 
 ---
 
 ## 💼 Experiência Profissional
 
-**Integra Engenharia de Sistemas** _(Jul 2024 - Presente)_
-* Atuação na implantação e configuração de sistemas de software.
-* Manipulação direta de dados e execução de consultas **SQL** para relatórios e suporte à decisão.
-* Planejamento e execução de importação de dados de diversas fontes, garantindo integridade das informações.
+### Integra Engenharia de Sistemas  
+**Analista de Implantação** — *Jul 2024 · Presente*
+
+- Implantação e configuração de sistemas em ambientes de clientes
+- Execução de consultas SQL para **relatórios, auditorias e suporte à decisão**
+- Planejamento e execução de **migração e importação de dados** entre sistemas
+- Suporte técnico avançado e resolução de incidentes
+- Interface entre áreas técnicas e usuários finais
 
 ---
 
-## 🎓 Formação
+## 🎓 Formação Acadêmica
 
-* **Tecnologia da Informação** | PUC Goiás (2024 - 2026)
-* **Técnico em Edificações** | IFG (2017 - 2020)
-
----
-
-## ⚡ Fun Facts
-
-* 📺 **Interesses:** Fã de *Dark Souls* e *Hunter x Hunter*.
-* 📊 **Dados:** Tenho interesse acadêmico em Machine Learning e Data Science (Pandas/Python).
+- **Tecnologia da Informação** — PUC Goiás *(2024 · 2026)*
+- **Técnico em Edificações** — IFG *(2017 · 2020)*
 
 ---
 
-## 📫 Contato
+## 📚 Interesses Técnicos
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/victor-gabriel-barros-b72946278/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:victorgabtec@gmail.com">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VictorRGBC&theme=gruvbox-duo" alt="GitHub Streak" /></a>
-  </a>
-</div>
+- Arquitetura de software e boas práticas
+- APIs e integração de sistemas
+- **Data Science e Machine Learning** (Python, Pandas)
+- Otimização e performance de banco de dados
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📫 Contato Profissional
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VictorRGBC&theme=darcula" alt="GitHub Streak" /></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gabriel-barros-b72946278/)
+
+---
+
+## 📊 Atividade no GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VictorRGBC&theme=darcula" alt="GitHub Streak" />
+</p>
