@@ -72,5 +72,5 @@ Atualmente trabalho como **Analista de Implantação**, conciliando a vivência 
 ## 📊 Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VictorRGBC&theme=darcula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VictoRGBC&theme=darcula" alt="GitHub Streak" />
 </p>
