@@ -12,14 +12,13 @@ Paralelamente, sou graduando em **Tecnologia da Informação pela PUC Goiás** e
 
 Minha experiência combina a prática do mercado de trabalho com projetos de estudo focados em arquitetura de software.
 
-<div style="display: inline_block">
-  <img align="center" alt="Victor-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Victor-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Victor-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Victor-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Victor-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Victor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+## 🛠️ Tech Stack & Ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,mssql,py,git" />
+  </a>
+</p>
 
 <br/>
 
@@ -62,6 +61,11 @@ Minha experiência combina a prática do mercado de trabalho com projetos de est
   </a>
 </div>
 
+---
+
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictoRGBC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictoRGBC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoRGBC&layout=compact&theme=dracula&hide=html,css" />
 </div>
