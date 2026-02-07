@@ -66,6 +66,5 @@ Minha experiência combina a prática do mercado de trabalho com projetos de est
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictoRGBC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoRGBC&layout=compact&theme=dracula&hide=html,css" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VictoRGBC&theme=dracula" />
 </div>
