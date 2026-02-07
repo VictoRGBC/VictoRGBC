@@ -64,6 +64,7 @@ Minha experiência combina a prática do mercado de trabalho com projetos de est
 ---
 
 ## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-one-eight.vercel.app/api?username=VictoRGBC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VictorRGBC&theme=darcula" alt="GitHub Streak" /></a>
 </div>
