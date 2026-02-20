@@ -1,5 +1,5 @@
 # 👋 Victor Gabriel Barros
-### Desenvolvedor Back-End .NET | Analista de Implantação | SQL & Integrações
+### Desenvolvedor Back-End .NET | Analista de Implantação |
 
 Sou **Desenvolvedor Back-End .NET** com experiência prática em **implantação de sistemas**, **integração entre aplicações** e **manipulação de dados em ambientes produtivos**. Atuo diretamente com **bancos de dados relacionais**, suporte técnico avançado e automação de processos.
 
