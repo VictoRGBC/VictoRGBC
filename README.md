@@ -40,16 +40,6 @@ Além do código e das otimizações em SQL, meu tempo livre é dedicado a criar
 
 ---
 
-## 🚀 Projetos em Destaque
-
-*Aqui estão alguns dos projetos que desenvolvi para aplicar conceitos de arquitetura e análise de dados:*
-
-* 🎲 **API de Gerenciamento de Fichas (D&D):** Uma REST API construída em C# com Clean Architecture e Entity Framework Core para gerenciar personagens de RPG.
-* 📊 **Dashboard INEP (Evasão Escolar):** Projeto de análise de dados acadêmicos utilizando Python e Spark no Databricks.
-* 📒 **Gerenciador de Contatos:** Aplicação console integrada com banco de dados MySQL para gestão prática de informações.
-
----
-
 ## 💼 Experiência Profissional
 
 ### **Analista de Implantação** | *Integra Engenharia de Sistemas*
