@@ -1,76 +1,76 @@
-# 👋 Victor Gabriel Barros
-### Desenvolvedor Back-End .NET | Analista de Implantação
+<div align="center">
 
-Sou **Desenvolvedor Back-End .NET** com experiência prática em **implantação de sistemas**, **integração entre aplicações** e **manipulação de dados em ambientes produtivos**. Atuo diretamente com **bancos de dados relacionais**, suporte técnico avançado e automação de processos.
+# 👋 Olá, eu sou o Victor Gabriel Barros!
 
-Atualmente trabalho como **Analista de Implantação**, conciliando a vivência profissional com a graduação em **Tecnologia da Informação (PUC Goiás)**, sempre com foco em desenvolvimento de software robusto, escalável e bem estruturado.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-End+.NET;Analista+de+Implanta%C3%A7%C3%A3o;Entusiasta+de+Dados+e+APIs)](https://git.io/typing-svg)
+
+**Desenvolvedor Back-End .NET**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gabriel-barros-b72946278/)
+[![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email-aqui@gmail.com)
+
+</div>
 
 ---
 
-## 🎯 Resumo Profissional
+## 👨‍💻 Sobre mim
 
-- Experiência prática com **C# e ecossistema .NET**
-- Forte atuação em **SQL Server, MySQL e Firebird**
-- Vivência em **implantação de sistemas**, migração e importação de dados
-- Perfil analítico, organizado e orientado à solução de problemas
-- Em constante evolução técnica e acadêmica
+Sou **Desenvolvedor Back-End .NET** com experiência prática em **implantação de sistemas**, **integração entre aplicações** e **manipulação de dados em ambientes produtivos**. No meu dia a dia, atuo diretamente com bancos de dados relacionais, suporte técnico avançado e automação de processos.
+
+Atualmente, concilio minha vivência profissional como Analista com minha graduação em **Big Data e Inteligência Artificial na PUC Goiás**, mantendo o foco em desenvolver softwares robustos, escaláveis e arquiteturas limpas. 
+
+Além do código e das otimizações em SQL, meu tempo livre é dedicado a criar campanhas imersivas de RPG de mesa (como D&D e Ordem Paranormal), explorar o universo de Dark Souls ou acompanhar episódios de Hunter x Hunter.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<p align="left">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,py,git" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,py,git,github,visualstudio,vscode&theme=dark" alt="Minhas Skills" />
   </a>
-</p>
+</div>
 
-**Principais Competências Técnicas:**
-- Desenvolvimento **Back-End com C# / .NET**
-- Criação e consumo de **APIs REST**
-- Escrita e otimização de **consultas SQL**
-- Importação, tratamento e validação de dados
-- Versionamento com **Git**
+<br>
+
+- **Linguagens & Frameworks:** C#, ecossistema .NET, Python (Pandas/Análise de Dados)
+- **Bancos de Dados:** SQL Server, MySQL, Firebird
+- **Arquitetura & Boas Práticas:** APIs REST, Clean Architecture, Entity Framework Core
+- **Ferramentas & Versionamento:** Git, GitHub, Integração de Sistemas
+
+---
+
+## 🚀 Projetos em Destaque
+
+*Aqui estão alguns dos projetos que desenvolvi para aplicar conceitos de arquitetura e análise de dados:*
+
+* 🎲 **API de Gerenciamento de Fichas (D&D):** Uma REST API construída em C# com Clean Architecture e Entity Framework Core para gerenciar personagens de RPG.
+* 📊 **Dashboard INEP (Evasão Escolar):** Projeto de análise de dados acadêmicos utilizando Python e Spark no Databricks.
+* 📒 **Gerenciador de Contatos:** Aplicação console integrada com banco de dados MySQL para gestão prática de informações.
 
 ---
 
 ## 💼 Experiência Profissional
 
-### Integra Engenharia de Sistemas  
-**Analista de Implantação** — *Jul 2024 · Presente*
-
-- Implantação e configuração de sistemas em ambientes de clientes
-- Execução de consultas SQL para **relatórios, auditorias e suporte à decisão**
-- Planejamento e execução de **migração e importação de dados** entre sistemas
-- Suporte técnico avançado e resolução de incidentes
-- Interface entre áreas técnicas e usuários finais
+### **Analista de Implantação** | *Integra Engenharia de Sistemas*
+📅 *Jul 2024 – Presente*
+- Implantação e configuração de sistemas em ambientes de clientes.
+- Execução e otimização de consultas SQL para **relatórios, auditorias e suporte à decisão**.
+- Planejamento e execução de **migração e importação de dados** entre sistemas.
+- Interface direta entre áreas técnicas e usuários finais para resolução de incidentes avançados.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- **Tecnologia da Informação** — PUC Goiás *(2024 · 2026)*
-- **Técnico em Edificações** — IFG *(2017 · 2020)*
+- 🎓 **Big Data e Inteligência Artificial** — PUC Goiás *(Previsão: Dez 2026)*
+- 🏗️ **Técnico em Edificações** — IFG *(2017 – 2020)*
 
 ---
 
-## 📚 Interesses Técnicos
+## 📈 Atividade no GitHub
 
-- Arquitetura de software e boas práticas
-- APIs e integração de sistemas
-- **Data Science e Machine Learning** (Python, Pandas)
-- Otimização e performance de banco de dados
-
----
-
-## 📫 Contato Profissional
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gabriel-barros-b72946278/)
-
----
-
-## 📊 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VictoRGBC&theme=darcula" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictoRGBC&show_icons=true&theme=darcula&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VictoRGBC&theme=darcula&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
